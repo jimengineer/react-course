@@ -30,6 +30,6 @@ export function Header() {
           <div className="cart-text">Cart</div>
         </Link>
       </div>
-    </div>
+    </div> 
   );
 }
